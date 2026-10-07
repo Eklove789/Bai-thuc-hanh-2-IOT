@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+firmware/.pio/
+firmware/.vscode/
+collector.log
+benchmark.json
+report/

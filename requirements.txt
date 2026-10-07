@@ -1,0 +1,7 @@
+paho-mqtt>=2.0
+influxdb-client>=1.40
+pandas>=2.0
+numpy
+scikit-learn
+streamlit>=1.37
+python-dotenv
